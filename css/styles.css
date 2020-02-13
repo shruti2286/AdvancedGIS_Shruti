@@ -31,13 +31,13 @@ background-image: url("https://cdn.wallpapersafari.com/58/15/a4exkF.jpg");
 body {
   font-family: "Arial";
   text-align: center;
-  background-image: url("https://media.istockphoto.com/photos/minimal-christmas-concept-candy-canes-white-background-top-view-copy-picture-id1053008964");
+  background-image: url("https://i.etsystatic.com/9516748/r/il/74c5b4/1352725957/il_570xN.1352725957_ca17.jpg");
   background-repeat: no-repeat;
 }
 
 
 #candy-list1 {
-  width: 32%;
+  width: 30%;
   display: inline;
   float: left;
   border: 2px solid #99CCFF;
@@ -47,7 +47,7 @@ body {
 }
 
 #candy-list2 {
-  width: 32%;
+  width: 30%;
   display: inline;
   float: left;
   border: 2px solid #99CCFF;
@@ -58,7 +58,7 @@ body {
 }
 
 #candy-list3 {
-  width: 32%;
+  width: 30%;
   display: inline;
   float: left;
   border: 2px solid #99CCFF;
